@@ -1,0 +1,5 @@
+C:\Users\veliz\source\repos\Veliz.Kevin.Clase02\Ejercicio1\obj\Debug\net6.0\Ejercicio1.csproj.AssemblyReference.cache
+C:\Users\veliz\source\repos\Veliz.Kevin.Clase02\Ejercicio1\obj\Debug\net6.0\Ejercicio1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\veliz\source\repos\Veliz.Kevin.Clase02\Ejercicio1\obj\Debug\net6.0\Ejercicio1.AssemblyInfoInputs.cache
+C:\Users\veliz\source\repos\Veliz.Kevin.Clase02\Ejercicio1\obj\Debug\net6.0\Ejercicio1.AssemblyInfo.cs
+C:\Users\veliz\source\repos\Veliz.Kevin.Clase02\Ejercicio1\obj\Debug\net6.0\Ejercicio1.csproj.CoreCompileInputs.cache

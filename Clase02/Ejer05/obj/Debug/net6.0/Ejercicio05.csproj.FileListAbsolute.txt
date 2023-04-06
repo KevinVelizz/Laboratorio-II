@@ -1,0 +1,15 @@
+C:\Users\veliz\source\repos\Veliz.Kevin.Clase02\Ejercicio05\obj\Debug\net6.0\Ejercicio05.csproj.AssemblyReference.cache
+C:\Users\veliz\source\repos\Veliz.Kevin.Clase02\Ejercicio05\obj\Debug\net6.0\Ejercicio05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\veliz\source\repos\Veliz.Kevin.Clase02\Ejercicio05\obj\Debug\net6.0\Ejercicio05.AssemblyInfoInputs.cache
+C:\Users\veliz\source\repos\Veliz.Kevin.Clase02\Ejercicio05\obj\Debug\net6.0\Ejercicio05.AssemblyInfo.cs
+C:\Users\veliz\source\repos\Veliz.Kevin.Clase02\Ejercicio05\obj\Debug\net6.0\Ejercicio05.csproj.CoreCompileInputs.cache
+C:\Users\veliz\source\repos\Veliz.Kevin.Clase02\Ejercicio05\bin\Debug\net6.0\Ejercicio05.exe
+C:\Users\veliz\source\repos\Veliz.Kevin.Clase02\Ejercicio05\bin\Debug\net6.0\Ejercicio05.deps.json
+C:\Users\veliz\source\repos\Veliz.Kevin.Clase02\Ejercicio05\bin\Debug\net6.0\Ejercicio05.runtimeconfig.json
+C:\Users\veliz\source\repos\Veliz.Kevin.Clase02\Ejercicio05\bin\Debug\net6.0\Ejercicio05.dll
+C:\Users\veliz\source\repos\Veliz.Kevin.Clase02\Ejercicio05\bin\Debug\net6.0\Ejercicio05.pdb
+C:\Users\veliz\source\repos\Veliz.Kevin.Clase02\Ejercicio05\obj\Debug\net6.0\Ejercicio05.dll
+C:\Users\veliz\source\repos\Veliz.Kevin.Clase02\Ejercicio05\obj\Debug\net6.0\refint\Ejercicio05.dll
+C:\Users\veliz\source\repos\Veliz.Kevin.Clase02\Ejercicio05\obj\Debug\net6.0\Ejercicio05.pdb
+C:\Users\veliz\source\repos\Veliz.Kevin.Clase02\Ejercicio05\obj\Debug\net6.0\Ejercicio05.genruntimeconfig.cache
+C:\Users\veliz\source\repos\Veliz.Kevin.Clase02\Ejercicio05\obj\Debug\net6.0\ref\Ejercicio05.dll

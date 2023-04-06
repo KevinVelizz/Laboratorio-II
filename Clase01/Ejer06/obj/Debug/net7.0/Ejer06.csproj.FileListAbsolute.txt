@@ -1,0 +1,15 @@
+C:\Users\veliz\source\repos\Veliz.Kevin\Ejer06\bin\Debug\net7.0\Ejer06.exe
+C:\Users\veliz\source\repos\Veliz.Kevin\Ejer06\bin\Debug\net7.0\Ejer06.deps.json
+C:\Users\veliz\source\repos\Veliz.Kevin\Ejer06\bin\Debug\net7.0\Ejer06.runtimeconfig.json
+C:\Users\veliz\source\repos\Veliz.Kevin\Ejer06\bin\Debug\net7.0\Ejer06.dll
+C:\Users\veliz\source\repos\Veliz.Kevin\Ejer06\bin\Debug\net7.0\Ejer06.pdb
+C:\Users\veliz\source\repos\Veliz.Kevin\Ejer06\obj\Debug\net7.0\Ejer06.csproj.AssemblyReference.cache
+C:\Users\veliz\source\repos\Veliz.Kevin\Ejer06\obj\Debug\net7.0\Ejer06.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\veliz\source\repos\Veliz.Kevin\Ejer06\obj\Debug\net7.0\Ejer06.AssemblyInfoInputs.cache
+C:\Users\veliz\source\repos\Veliz.Kevin\Ejer06\obj\Debug\net7.0\Ejer06.AssemblyInfo.cs
+C:\Users\veliz\source\repos\Veliz.Kevin\Ejer06\obj\Debug\net7.0\Ejer06.csproj.CoreCompileInputs.cache
+C:\Users\veliz\source\repos\Veliz.Kevin\Ejer06\obj\Debug\net7.0\Ejer06.dll
+C:\Users\veliz\source\repos\Veliz.Kevin\Ejer06\obj\Debug\net7.0\refint\Ejer06.dll
+C:\Users\veliz\source\repos\Veliz.Kevin\Ejer06\obj\Debug\net7.0\Ejer06.pdb
+C:\Users\veliz\source\repos\Veliz.Kevin\Ejer06\obj\Debug\net7.0\Ejer06.genruntimeconfig.cache
+C:\Users\veliz\source\repos\Veliz.Kevin\Ejer06\obj\Debug\net7.0\ref\Ejer06.dll
