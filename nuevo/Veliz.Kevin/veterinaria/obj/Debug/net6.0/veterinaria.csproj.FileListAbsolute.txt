@@ -1,0 +1,12 @@
+C:\Users\veliz\Desktop\nuevo\Veliz.Kevin\veterinaria\bin\Debug\net6.0\veterinaria.deps.json
+C:\Users\veliz\Desktop\nuevo\Veliz.Kevin\veterinaria\bin\Debug\net6.0\veterinaria.dll
+C:\Users\veliz\Desktop\nuevo\Veliz.Kevin\veterinaria\bin\Debug\net6.0\veterinaria.pdb
+C:\Users\veliz\Desktop\nuevo\Veliz.Kevin\veterinaria\obj\Debug\net6.0\veterinaria.csproj.AssemblyReference.cache
+C:\Users\veliz\Desktop\nuevo\Veliz.Kevin\veterinaria\obj\Debug\net6.0\veterinaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\veliz\Desktop\nuevo\Veliz.Kevin\veterinaria\obj\Debug\net6.0\veterinaria.AssemblyInfoInputs.cache
+C:\Users\veliz\Desktop\nuevo\Veliz.Kevin\veterinaria\obj\Debug\net6.0\veterinaria.AssemblyInfo.cs
+C:\Users\veliz\Desktop\nuevo\Veliz.Kevin\veterinaria\obj\Debug\net6.0\veterinaria.csproj.CoreCompileInputs.cache
+C:\Users\veliz\Desktop\nuevo\Veliz.Kevin\veterinaria\obj\Debug\net6.0\veterinaria.dll
+C:\Users\veliz\Desktop\nuevo\Veliz.Kevin\veterinaria\obj\Debug\net6.0\refint\veterinaria.dll
+C:\Users\veliz\Desktop\nuevo\Veliz.Kevin\veterinaria\obj\Debug\net6.0\veterinaria.pdb
+C:\Users\veliz\Desktop\nuevo\Veliz.Kevin\veterinaria\obj\Debug\net6.0\ref\veterinaria.dll

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Ejercicio25/1.0.0": {
+        "dependencies": {
+          "veterinaria": "1.0.0"
+        },
+        "runtime": {
+          "Ejercicio25.dll": {}
+        }
+      },
+      "veterinaria/1.0.0": {
+        "runtime": {
+          "veterinaria.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ejercicio25/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "veterinaria/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

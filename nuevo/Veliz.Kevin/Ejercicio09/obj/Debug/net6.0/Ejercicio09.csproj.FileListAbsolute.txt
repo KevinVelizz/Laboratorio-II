@@ -1,0 +1,15 @@
+C:\Users\veliz\Desktop\nuevo\Veliz.Kevin\Ejercicio09\bin\Debug\net6.0\Ejercicio09.exe
+C:\Users\veliz\Desktop\nuevo\Veliz.Kevin\Ejercicio09\bin\Debug\net6.0\Ejercicio09.deps.json
+C:\Users\veliz\Desktop\nuevo\Veliz.Kevin\Ejercicio09\bin\Debug\net6.0\Ejercicio09.runtimeconfig.json
+C:\Users\veliz\Desktop\nuevo\Veliz.Kevin\Ejercicio09\bin\Debug\net6.0\Ejercicio09.dll
+C:\Users\veliz\Desktop\nuevo\Veliz.Kevin\Ejercicio09\bin\Debug\net6.0\Ejercicio09.pdb
+C:\Users\veliz\Desktop\nuevo\Veliz.Kevin\Ejercicio09\obj\Debug\net6.0\Ejercicio09.csproj.AssemblyReference.cache
+C:\Users\veliz\Desktop\nuevo\Veliz.Kevin\Ejercicio09\obj\Debug\net6.0\Ejercicio09.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\veliz\Desktop\nuevo\Veliz.Kevin\Ejercicio09\obj\Debug\net6.0\Ejercicio09.AssemblyInfoInputs.cache
+C:\Users\veliz\Desktop\nuevo\Veliz.Kevin\Ejercicio09\obj\Debug\net6.0\Ejercicio09.AssemblyInfo.cs
+C:\Users\veliz\Desktop\nuevo\Veliz.Kevin\Ejercicio09\obj\Debug\net6.0\Ejercicio09.csproj.CoreCompileInputs.cache
+C:\Users\veliz\Desktop\nuevo\Veliz.Kevin\Ejercicio09\obj\Debug\net6.0\Ejercicio09.dll
+C:\Users\veliz\Desktop\nuevo\Veliz.Kevin\Ejercicio09\obj\Debug\net6.0\refint\Ejercicio09.dll
+C:\Users\veliz\Desktop\nuevo\Veliz.Kevin\Ejercicio09\obj\Debug\net6.0\Ejercicio09.pdb
+C:\Users\veliz\Desktop\nuevo\Veliz.Kevin\Ejercicio09\obj\Debug\net6.0\Ejercicio09.genruntimeconfig.cache
+C:\Users\veliz\Desktop\nuevo\Veliz.Kevin\Ejercicio09\obj\Debug\net6.0\ref\Ejercicio09.dll

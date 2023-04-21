@@ -1,0 +1,15 @@
+C:\Users\veliz\Desktop\nuevo\Clase07\Prueba\bin\Debug\net6.0\Prueba.exe
+C:\Users\veliz\Desktop\nuevo\Clase07\Prueba\bin\Debug\net6.0\Prueba.deps.json
+C:\Users\veliz\Desktop\nuevo\Clase07\Prueba\bin\Debug\net6.0\Prueba.runtimeconfig.json
+C:\Users\veliz\Desktop\nuevo\Clase07\Prueba\bin\Debug\net6.0\Prueba.dll
+C:\Users\veliz\Desktop\nuevo\Clase07\Prueba\bin\Debug\net6.0\Prueba.pdb
+C:\Users\veliz\Desktop\nuevo\Clase07\Prueba\obj\Debug\net6.0\Prueba.csproj.AssemblyReference.cache
+C:\Users\veliz\Desktop\nuevo\Clase07\Prueba\obj\Debug\net6.0\Prueba.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\veliz\Desktop\nuevo\Clase07\Prueba\obj\Debug\net6.0\Prueba.AssemblyInfoInputs.cache
+C:\Users\veliz\Desktop\nuevo\Clase07\Prueba\obj\Debug\net6.0\Prueba.AssemblyInfo.cs
+C:\Users\veliz\Desktop\nuevo\Clase07\Prueba\obj\Debug\net6.0\Prueba.csproj.CoreCompileInputs.cache
+C:\Users\veliz\Desktop\nuevo\Clase07\Prueba\obj\Debug\net6.0\Prueba.dll
+C:\Users\veliz\Desktop\nuevo\Clase07\Prueba\obj\Debug\net6.0\refint\Prueba.dll
+C:\Users\veliz\Desktop\nuevo\Clase07\Prueba\obj\Debug\net6.0\Prueba.pdb
+C:\Users\veliz\Desktop\nuevo\Clase07\Prueba\obj\Debug\net6.0\Prueba.genruntimeconfig.cache
+C:\Users\veliz\Desktop\nuevo\Clase07\Prueba\obj\Debug\net6.0\ref\Prueba.dll
