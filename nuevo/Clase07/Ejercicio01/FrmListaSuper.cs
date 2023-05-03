@@ -37,8 +37,12 @@ namespace Ejercicio01
             toolTipEliminar.SetToolTip(btnEliminar, "Eliminar objeto");
             toolTipModificar.SetToolTip(btnModificar, "Modificar objeto");
 
-          
+            this.DeserealizarLista();
 
+        }
+
+        private void DeserealizarLista()
+        {
             if (File.Exists(dataPath + @"\listaSupermercado.xml"))
             {
                 try
@@ -47,7 +51,7 @@ namespace Ejercicio01
                     {
                         XmlSerializer serializer = new XmlSerializer((typeof(List<string>)));
 
-                        listaSupermercado = (List<string>)serializer.Deserialize(sr);
+                        this.listaSupermercado = (List<string>)serializer.Deserialize(sr);
                     }
 
                     this.ActualizarListaSupermercado();

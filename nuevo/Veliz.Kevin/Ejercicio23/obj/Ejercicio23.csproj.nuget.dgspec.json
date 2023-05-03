@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\veliz\\Desktop\\nuevo\\Veliz.Kevin\\Ejercicio23\\Ejercicio23.csproj": {}
+    "C:\\Users\\veliz\\Desktop\\Laboratorio-II\\nuevo\\Veliz.Kevin\\Ejercicio23\\Ejercicio23.csproj": {}
   },
   "projects": {
-    "C:\\Users\\veliz\\Desktop\\nuevo\\Veliz.Kevin\\Ejercicio23\\Ejercicio23.csproj": {
+    "C:\\Users\\veliz\\Desktop\\Laboratorio-II\\nuevo\\Veliz.Kevin\\Ejercicio23\\Ejercicio23.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\veliz\\Desktop\\nuevo\\Veliz.Kevin\\Ejercicio23\\Ejercicio23.csproj",
+        "projectUniqueName": "C:\\Users\\veliz\\Desktop\\Laboratorio-II\\nuevo\\Veliz.Kevin\\Ejercicio23\\Ejercicio23.csproj",
         "projectName": "Ejercicio23",
-        "projectPath": "C:\\Users\\veliz\\Desktop\\nuevo\\Veliz.Kevin\\Ejercicio23\\Ejercicio23.csproj",
+        "projectPath": "C:\\Users\\veliz\\Desktop\\Laboratorio-II\\nuevo\\Veliz.Kevin\\Ejercicio23\\Ejercicio23.csproj",
         "packagesPath": "C:\\Users\\veliz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\veliz\\Desktop\\nuevo\\Veliz.Kevin\\Ejercicio23\\obj\\",
+        "outputPath": "C:\\Users\\veliz\\Desktop\\Laboratorio-II\\nuevo\\Veliz.Kevin\\Ejercicio23\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,8 +33,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\veliz\\Desktop\\nuevo\\Veliz.Kevin\\Geometria\\Geometria.csproj": {
-                "projectPath": "C:\\Users\\veliz\\Desktop\\nuevo\\Veliz.Kevin\\Geometria\\Geometria.csproj"
+              "C:\\Users\\veliz\\Desktop\\Laboratorio-II\\nuevo\\Veliz.Kevin\\Geometria\\Geometria.csproj": {
+                "projectPath": "C:\\Users\\veliz\\Desktop\\Laboratorio-II\\nuevo\\Veliz.Kevin\\Geometria\\Geometria.csproj"
               }
             }
           }
@@ -68,14 +68,14 @@
         }
       }
     },
-    "C:\\Users\\veliz\\Desktop\\nuevo\\Veliz.Kevin\\Geometria\\Geometria.csproj": {
+    "C:\\Users\\veliz\\Desktop\\Laboratorio-II\\nuevo\\Veliz.Kevin\\Geometria\\Geometria.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\veliz\\Desktop\\nuevo\\Veliz.Kevin\\Geometria\\Geometria.csproj",
+        "projectUniqueName": "C:\\Users\\veliz\\Desktop\\Laboratorio-II\\nuevo\\Veliz.Kevin\\Geometria\\Geometria.csproj",
         "projectName": "Geometria",
-        "projectPath": "C:\\Users\\veliz\\Desktop\\nuevo\\Veliz.Kevin\\Geometria\\Geometria.csproj",
+        "projectPath": "C:\\Users\\veliz\\Desktop\\Laboratorio-II\\nuevo\\Veliz.Kevin\\Geometria\\Geometria.csproj",
         "packagesPath": "C:\\Users\\veliz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\veliz\\Desktop\\nuevo\\Veliz.Kevin\\Geometria\\obj\\",
+        "outputPath": "C:\\Users\\veliz\\Desktop\\Laboratorio-II\\nuevo\\Veliz.Kevin\\Geometria\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

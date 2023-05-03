@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\veliz\\Desktop\\nuevo\\Formulario.2023\\WindowForms\\WindowForms.csproj": {}
+    "C:\\Users\\veliz\\Desktop\\Laboratorio-II\\nuevo\\Formulario.2023\\WindowForms\\WindowForms.csproj": {}
   },
   "projects": {
-    "C:\\Users\\veliz\\Desktop\\nuevo\\Formulario.2023\\Entidades\\Entidades.csproj": {
+    "C:\\Users\\veliz\\Desktop\\Laboratorio-II\\nuevo\\Formulario.2023\\Entidades\\Entidades.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\veliz\\Desktop\\nuevo\\Formulario.2023\\Entidades\\Entidades.csproj",
+        "projectUniqueName": "C:\\Users\\veliz\\Desktop\\Laboratorio-II\\nuevo\\Formulario.2023\\Entidades\\Entidades.csproj",
         "projectName": "Entidades",
-        "projectPath": "C:\\Users\\veliz\\Desktop\\nuevo\\Formulario.2023\\Entidades\\Entidades.csproj",
+        "projectPath": "C:\\Users\\veliz\\Desktop\\Laboratorio-II\\nuevo\\Formulario.2023\\Entidades\\Entidades.csproj",
         "packagesPath": "C:\\Users\\veliz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\veliz\\Desktop\\nuevo\\Formulario.2023\\Entidades\\obj\\",
+        "outputPath": "C:\\Users\\veliz\\Desktop\\Laboratorio-II\\nuevo\\Formulario.2023\\Entidades\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -64,14 +64,14 @@
         }
       }
     },
-    "C:\\Users\\veliz\\Desktop\\nuevo\\Formulario.2023\\WindowForms\\WindowForms.csproj": {
+    "C:\\Users\\veliz\\Desktop\\Laboratorio-II\\nuevo\\Formulario.2023\\WindowForms\\WindowForms.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\veliz\\Desktop\\nuevo\\Formulario.2023\\WindowForms\\WindowForms.csproj",
+        "projectUniqueName": "C:\\Users\\veliz\\Desktop\\Laboratorio-II\\nuevo\\Formulario.2023\\WindowForms\\WindowForms.csproj",
         "projectName": "WindowForms",
-        "projectPath": "C:\\Users\\veliz\\Desktop\\nuevo\\Formulario.2023\\WindowForms\\WindowForms.csproj",
+        "projectPath": "C:\\Users\\veliz\\Desktop\\Laboratorio-II\\nuevo\\Formulario.2023\\WindowForms\\WindowForms.csproj",
         "packagesPath": "C:\\Users\\veliz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\veliz\\Desktop\\nuevo\\Formulario.2023\\WindowForms\\obj\\",
+        "outputPath": "C:\\Users\\veliz\\Desktop\\Laboratorio-II\\nuevo\\Formulario.2023\\WindowForms\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -93,8 +93,8 @@
           "net6.0-windows7.0": {
             "targetAlias": "net6.0-windows",
             "projectReferences": {
-              "C:\\Users\\veliz\\Desktop\\nuevo\\Formulario.2023\\Entidades\\Entidades.csproj": {
-                "projectPath": "C:\\Users\\veliz\\Desktop\\nuevo\\Formulario.2023\\Entidades\\Entidades.csproj"
+              "C:\\Users\\veliz\\Desktop\\Laboratorio-II\\nuevo\\Formulario.2023\\Entidades\\Entidades.csproj": {
+                "projectPath": "C:\\Users\\veliz\\Desktop\\Laboratorio-II\\nuevo\\Formulario.2023\\Entidades\\Entidades.csproj"
               }
             }
           }

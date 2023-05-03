@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\veliz\\Desktop\\nuevo\\Veliz.Kevin\\Ejercicio16\\Ejercicio16.csproj",
+      "projectUniqueName": "C:\\Users\\veliz\\Desktop\\Laboratorio-II\\nuevo\\Veliz.Kevin\\Ejercicio16\\Ejercicio16.csproj",
       "projectName": "Ejercicio16",
-      "projectPath": "C:\\Users\\veliz\\Desktop\\nuevo\\Veliz.Kevin\\Ejercicio16\\Ejercicio16.csproj",
+      "projectPath": "C:\\Users\\veliz\\Desktop\\Laboratorio-II\\nuevo\\Veliz.Kevin\\Ejercicio16\\Ejercicio16.csproj",
       "packagesPath": "C:\\Users\\veliz\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\veliz\\Desktop\\nuevo\\Veliz.Kevin\\Ejercicio16\\obj\\",
+      "outputPath": "C:\\Users\\veliz\\Desktop\\Laboratorio-II\\nuevo\\Veliz.Kevin\\Ejercicio16\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

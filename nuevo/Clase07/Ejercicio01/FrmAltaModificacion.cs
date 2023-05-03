@@ -7,7 +7,7 @@ namespace Ejercicio01
             InitializeComponent();
             this.StartPosition = FormStartPosition.CenterScreen;
         }
-    
+
         public FrmAltaModificacion(string title, string textObject, string textButton) : this()
         {
             this.Text = title;
