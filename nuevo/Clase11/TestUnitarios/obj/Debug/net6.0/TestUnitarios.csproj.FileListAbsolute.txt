@@ -1,0 +1,15 @@
+C:\Users\veliz\Desktop\Laboratorio-II\nuevo\Clase11\TestUnitarios\bin\Debug\net6.0\TestUnitarios.exe
+C:\Users\veliz\Desktop\Laboratorio-II\nuevo\Clase11\TestUnitarios\bin\Debug\net6.0\TestUnitarios.deps.json
+C:\Users\veliz\Desktop\Laboratorio-II\nuevo\Clase11\TestUnitarios\bin\Debug\net6.0\TestUnitarios.runtimeconfig.json
+C:\Users\veliz\Desktop\Laboratorio-II\nuevo\Clase11\TestUnitarios\bin\Debug\net6.0\TestUnitarios.dll
+C:\Users\veliz\Desktop\Laboratorio-II\nuevo\Clase11\TestUnitarios\bin\Debug\net6.0\TestUnitarios.pdb
+C:\Users\veliz\Desktop\Laboratorio-II\nuevo\Clase11\TestUnitarios\obj\Debug\net6.0\TestUnitarios.csproj.AssemblyReference.cache
+C:\Users\veliz\Desktop\Laboratorio-II\nuevo\Clase11\TestUnitarios\obj\Debug\net6.0\TestUnitarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\veliz\Desktop\Laboratorio-II\nuevo\Clase11\TestUnitarios\obj\Debug\net6.0\TestUnitarios.AssemblyInfoInputs.cache
+C:\Users\veliz\Desktop\Laboratorio-II\nuevo\Clase11\TestUnitarios\obj\Debug\net6.0\TestUnitarios.AssemblyInfo.cs
+C:\Users\veliz\Desktop\Laboratorio-II\nuevo\Clase11\TestUnitarios\obj\Debug\net6.0\TestUnitarios.csproj.CoreCompileInputs.cache
+C:\Users\veliz\Desktop\Laboratorio-II\nuevo\Clase11\TestUnitarios\obj\Debug\net6.0\TestUnitarios.dll
+C:\Users\veliz\Desktop\Laboratorio-II\nuevo\Clase11\TestUnitarios\obj\Debug\net6.0\refint\TestUnitarios.dll
+C:\Users\veliz\Desktop\Laboratorio-II\nuevo\Clase11\TestUnitarios\obj\Debug\net6.0\TestUnitarios.pdb
+C:\Users\veliz\Desktop\Laboratorio-II\nuevo\Clase11\TestUnitarios\obj\Debug\net6.0\TestUnitarios.genruntimeconfig.cache
+C:\Users\veliz\Desktop\Laboratorio-II\nuevo\Clase11\TestUnitarios\obj\Debug\net6.0\ref\TestUnitarios.dll
