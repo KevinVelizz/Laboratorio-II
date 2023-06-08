@@ -144,10 +144,6 @@ namespace Entidades
             return rta;
         }
 
-
-        public static 
-
-
         public static Juego ObtenerJuego(int ID)
         {
             Juego juego = null;
